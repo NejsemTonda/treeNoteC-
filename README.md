@@ -23,4 +23,4 @@ I wanted to create an app where I would be comfortable making notes. I didn't li
 - Ctrl+click on a node to create new children of this node.
 
 
-see more in ![documentation](https://github.com/NejsemTonda/treeNote/blob/main/documentation/documentation.md)
+see more in ![documentation](https://github.com/NejsemTonda/treeNoteC-/blob/main/documentation/documentation.md)
